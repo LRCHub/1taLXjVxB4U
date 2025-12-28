@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Picky Picky",
+  "base_artist": "Weki Meki",
+  "createdAt": "2025-12-28T02:16:14.160420Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Picky Picky Head",
+      "artist": "Wailing Souls",
+      "has_synced": true,
+      "path": "select/01_Picky_Picky_Head_Wailing_Souls.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Picky Picky",
+      "artist": "Weki Meki",
+      "has_synced": true,
+      "path": "select/02_Picky_Picky_Weki_Meki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Picky Picky",
+      "artist": "Weki Meki",
+      "has_synced": true,
+      "path": "select/03_Picky_Picky_Weki_Meki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Picky Picky",
+      "artist": "Weki Meki",
+      "has_synced": true,
+      "path": "select/04_Picky_Picky_Weki_Meki.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Picky Picky (Picky Picky)",
+      "artist": "Weki Meki",
+      "has_synced": true,
+      "path": "select/05_Picky_Picky_(Picky_Picky)_Weki_Meki.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Picky Picky Head (Album Version)",
+      "artist": "Wailing Souls",
+      "has_synced": true,
+      "path": "select/06_Picky_Picky_Head_(Album_Version)_Wailing_Souls.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Picky Picky (Picky Picky)",
+      "artist": "Weki Meki",
+      "has_synced": true,
+      "path": "select/07_Picky_Picky_(Picky_Picky)_Weki_Meki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Picky Picky",
+      "artist": "위키미키",
+      "has_synced": true,
+      "path": "select/08_Picky_Picky_위키미키.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Picky Picky Head",
+      "artist": "The Wailing Souls",
+      "has_synced": true,
+      "path": "select/09_Picky_Picky_Head_The_Wailing_Souls.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Picky Picky Head",
+      "artist": "Wailing Souls",
+      "has_synced": true,
+      "path": "select/10_Picky_Picky_Head_Wailing_Souls.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Picky Picky",
+      "artist": "Weki Meki",
+      "has_synced": false,
+      "path": "select/pl_01_Picky_Picky_Weki_Meki.txt"
+    }
+  ]
+}
